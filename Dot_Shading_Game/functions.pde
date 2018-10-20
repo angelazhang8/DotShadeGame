@@ -1,7 +1,7 @@
 color applyColor(color you, color food, float youRadius, float foodRadius) {
-  float percentFood = foodRadius / ( youRadius + foodRadius);
+  float percentFood = foodRadius / ( youRadius + foodRadius); //calculate your new color
   float percentMe = 1 - percentFood;
-  float amountRed = (red(you)*percentMe + red(food)* percentFood);
+  float amountRed = (red(you)*percentMe + red(food)* percentFood); 
   float amountGreen = (green(you)*percentMe + green(food)* percentFood);
   float amountBlue = (blue(you)*percentMe + blue(food)* percentFood);
   color newColor = color( amountRed, amountGreen, amountBlue );
@@ -20,7 +20,7 @@ void drawBackGround() {
   }
 }
 
-void checkDist() {
+void checkDist() { //check the distance between you and a foodDot
   color tempVar = youFill;
   int numDeleted = 0;
   PVector tempYou = you;
@@ -29,7 +29,6 @@ void checkDist() {
     float ySquared = pow( (tempYou.y - foodDots.get(i).location.y), 2);
     float dist = sqrt(xSquared + ySquared);
     if ( dist <= youSize/2) {
-
       tempVar = color( (applyColor(youFill, (foodDots.get(i)).c, youSize, (foodDots.get(i)).radius)));
       foodDots.remove(i);
       numDeleted ++;
@@ -38,7 +37,7 @@ void checkDist() {
       i++;
   }
   youFill = tempVar;
-
+  //generate new dots to make up for the ones you ate
   for (int i = 0; i < numDeleted; i++) {
     PVector l = new PVector (random( width), random(height));
     color c = color(random(255), random(255), random(255));
