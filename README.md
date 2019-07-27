@@ -6,7 +6,6 @@
 3. Happy gaming!
 
 ###Sample games
-![screenshot of game](/images/image1.png "End game screen")
 ![screenshot of game](/images/1.png)
 ![screenshot of game](/images/2.png)
 ![screenshot of game](/images/3.png)
