@@ -8,6 +8,6 @@
 
 ### Sample games
 
-![screenshot of game](/images/1.png)
-![screenshot of game](/images/2.png)
 ![screenshot of game](/images/3.png)
+![screenshot of game](/images/2.png)
+![screenshot of game](/images/1.png)
