@@ -8,6 +8,7 @@
 
 ### Sample games
 <iframe src="https://www.openprocessing.org/sketch/840127/embed/" width="400" height="300"></iframe>
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 ![screenshot of game](/images/3.png)
 ![screenshot of game](/images/2.png)
