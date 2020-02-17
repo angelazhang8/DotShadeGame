@@ -7,7 +7,7 @@
 3.	Happy gaming!
 
 ### Sample games
-[<img src="https://drive.google.com/file/d/19yDbwbkKXNd7ScB2f1dRfZMJoKlOC9AN/uc?usp=sharing">](http://www.openprocessing.org/sketch/840127)
+[<img src="https://drive.google.com/file/d/19yDbwbkKXNd7ScB2f1dRfZMJoKlOC9AN/preview">](http://www.openprocessing.org/sketch/840127)
 
 "Dot Shaders" by Angela Zhang
 
