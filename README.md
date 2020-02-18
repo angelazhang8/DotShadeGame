@@ -7,10 +7,10 @@ Ever played Arg.io or Slither.io? This game is similar except when you consume a
 2.	Try to consume dots that will help you achieve a colour that matches the background, there is some leeway because matching exact RGB values would be a ridiculous requirement
 3.	Happy gaming!
 
-### Sample games
+### Click on the image below to try out the game!
 [<img src="https://github.com/xxxzhangxxx/Dot_Shade_Game/blob/master/images/AngelaZhang%20(1).png">](http://www.openprocessing.org/sketch/840127)
 
-#### Sample game screen:
+#### Sample game screens:
 
 ##### Initial state:
 Your dot starts off in the top left corner. Use arrrow keys to move around.
