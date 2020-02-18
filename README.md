@@ -14,7 +14,9 @@ Ever played Arg.io or Slither.io? This game is similar except when you consume a
 
 ##### Initial state:
 Your dot starts off in the top left corner. Use arrrow keys to move around.
+
 ![screenshot of game](https://github.com/xxxzhangxxx/Dot_Shade_Game/blob/master/images/2%2010.38.32%20AM.png)
+
 ##### During the game:
 ![screenshot of game](https://github.com/xxxzhangxxx/Dot_Shade_Game/blob/master/images/1%2010.38.32%20AM.png)
 
